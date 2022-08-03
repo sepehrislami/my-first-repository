@@ -2,7 +2,7 @@
 
 + im sepehr islami.
 + i started learning programing 10 day.
-+ im happy for Getting to know [Mr. Mihan Doost](https://githube.com/alimd).  
++ im happy for Getting to know [Mr. Mihan Doost](https://github.com/alimd).  
   he teach me programing web technology.
   
 + `till here i learned basic html and basic markdown`
